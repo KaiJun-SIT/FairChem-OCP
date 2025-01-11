@@ -1,0 +1,27 @@
+name: new_ocp-models
+channels:
+  - pytorch
+  - pyg
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=1.13.1
+  - pytorch-cuda=11.6
+  - e3nn=0.4.4
+  - matplotlib
+  - numba
+  - orjson
+  - pre-commit=2.10.1
+  - pymatgen=2023.5.10
+  - python-lmdb
+  - submitit
+  - syrupy=3.0.6
+  - wandb
+  - pip
+  - pip:
+    - torch-geometric==2.2.0
+    - torch-scatter==2.1.0
+    - torch-sparse==0.6.15
+    - torch-cluster==1.6.0
