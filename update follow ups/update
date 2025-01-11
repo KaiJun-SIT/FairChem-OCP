@@ -1,0 +1,9 @@
+-	Environment has changed to YunYi’s env, some files not able to download but not necessary nor relevant
+
+-	After changing all relevant dependencies and channels as well as checking the same version, still not able to run.
+
+-	Problem faced is ocp module not downloaded in environment. Still figuring out how to solve this problem
+
+
+-	created github for easy update and follow up.
+-	https://github.com/KaiJun-SIT/FairChem-OCP/tree/main
